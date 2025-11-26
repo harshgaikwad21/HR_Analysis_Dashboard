@@ -22,24 +22,25 @@ The included `.pbit` template allows seamless integration with your own HR datas
 ## 🎯 Key Insights
 
 ### 👥 Workforce Composition
-- Total headcount analysis  
-- Age, gender, and experience segmentation  
-- Diversity and representation metrics  
+
+<img width="1310" height="729" alt="hr dash 1" src="https://github.com/user-attachments/assets/36cb2eed-a9ad-4227-9d41-57dbbeda7493" />
+
 
 ### 🧭 Department & Role Analytics
-- Department-level headcount and salary distribution  
-- Performance rating comparisons  
-- Role-wise growth and movement patterns  
+
+<img width="1305" height="730" alt="hr dash 2" src="https://github.com/user-attachments/assets/5aebd8bb-7b3f-481c-aeaa-2e719a0e14c5" />
+
 
 ### 📈 Performance & Growth
-- Annual performance trends  
-- Promotion insights  
-- KPI scoring and evaluation dashboards  
+
+<img width="1301" height="722" alt="hr dash 3" src="https://github.com/user-attachments/assets/9c9a0713-65ad-4320-a734-6f3a7df0591a" />
+
+
 
 ### 🔁 Hiring & Attrition Insights
-- New hires vs employee exits  
-- Voluntary and involuntary attrition analysis  
-- Tenure-based attrition patterns  
+
+<img width="1306" height="734" alt="hr dash 4" src="https://github.com/user-attachments/assets/24bf10c2-4f6f-4eb0-b53b-5f35628eb1ef" />
+
 
 ---
 
