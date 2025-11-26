@@ -3,7 +3,7 @@
 
 A comprehensive **HR Analytics Dashboard** built using **Power BI**, designed to help organizations monitor workforce performance, analyze employee trends, and make data-driven HR decisions with confidence.
 
-![Hr_analysis](https://tse2.mm.bing.net/th/id/OIP.3sKd2sxXnNUaPZT4a4A9qwHaEd?pid=Api&P=0&h=180)
+![Hr_analysis](https://wallpaperaccess.com/full/15682437.png)
 ---
 
 ## 🌟 Overview
