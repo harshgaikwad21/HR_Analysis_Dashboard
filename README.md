@@ -28,7 +28,7 @@ The included `.pbit` template allows seamless integration with your own HR datas
 
 ### 👥 Workforce Composition
 
-<img width="1310" height="729" alt="hr dash 1" src="https://github.com/user-attachments/assets/36cb2eed-a9ad-4227-9d41-57dbbeda7493" />
+<img width="800" height="500" alt="hr dash 1" src="https://github.com/user-attachments/assets/36cb2eed-a9ad-4227-9d41-57dbbeda7493" />
 
 ## 📌 Insights from the Talent Insights Hub Dashboard
 
@@ -41,7 +41,7 @@ The included `.pbit` template allows seamless integration with your own HR datas
 
 ### 🧭 Department & Role Analytics
 
-<img width="1305" height="730" alt="hr dash 2" src="https://github.com/user-attachments/assets/5aebd8bb-7b3f-481c-aeaa-2e719a0e14c5" />
+<img width="800" height="500" alt="hr dash 2" src="https://github.com/user-attachments/assets/5aebd8bb-7b3f-481c-aeaa-2e719a0e14c5" />
 
 ## 📌 Insights from the Compensation & Salary Overview Dashboard
 
@@ -55,7 +55,7 @@ The included `.pbit` template allows seamless integration with your own HR datas
 
 ### 📈 Performance & Growth
 
-<img width="1301" height="722" alt="hr dash 3" src="https://github.com/user-attachments/assets/9c9a0713-65ad-4320-a734-6f3a7df0591a" />
+<img width="800" height="500" alt="hr dash 3" src="https://github.com/user-attachments/assets/9c9a0713-65ad-4320-a734-6f3a7df0591a" />
 
 ## 📌 Insights from the Employee Performance & Growth Dashboard
 
@@ -68,7 +68,7 @@ The included `.pbit` template allows seamless integration with your own HR datas
 
 ### 🔁 Hiring & Attrition Insights
 
-<img width="1306" height="734" alt="hr dash 4" src="https://github.com/user-attachments/assets/24bf10c2-4f6f-4eb0-b53b-5f35628eb1ef" />
+<img width="800" height="500" alt="hr dash 4" src="https://github.com/user-attachments/assets/24bf10c2-4f6f-4eb0-b53b-5f35628eb1ef" />
 
 ## 📌 Insights from the Workforce Demographics & Diversity Dashboard
 
