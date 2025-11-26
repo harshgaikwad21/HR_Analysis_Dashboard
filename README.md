@@ -6,6 +6,9 @@ A comprehensive **HR Analytics Dashboard** built using **Power BI**, designed to
 ![Hr_analysis](https://wallpaperaccess.com/full/15682437.png)
 
 ---
+# Tool Used
+
+![WhatsApp Image 2025-11-26 at 00 59 06_c9d1a806](https://github.com/user-attachments/assets/63fdc921-cdf8-4e81-ac0e-6a5bacdc14ba)
 
 
 ## 🌟 Overview
